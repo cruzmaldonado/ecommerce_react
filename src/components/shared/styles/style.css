@@ -9,7 +9,7 @@
   transform: translateY(-100%);
 }
 .header__item{
-  padding:0.7rem;
+  padding:0.3rem;
 }
 
 .header__menu-ham{
@@ -27,12 +27,12 @@
 i{
   color:#B3B3B3;
 }
-@media screen and (min-width: 768px) { 
+@media screen and (min-width: 720px) { 
   .header__menu-ham{
     display:none;}
 }
 
- @media screen and (min-width: 768px) { 
+ @media screen and (min-width: 720px) { 
   .header__list{
     flex-direction: row;
     justify-content: space-around;

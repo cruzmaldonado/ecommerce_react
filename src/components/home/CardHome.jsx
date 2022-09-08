@@ -2,7 +2,7 @@ import axios from 'axios'
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
 import getConfig from '../../utils/getConfig'
-import './styles/cardHome2.css'
+import './styles/cardHome.css'
 
 const CardHome = ({product}) => {
 
