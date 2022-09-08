@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { useSelector } from 'react-redux'
 import CardHome from '../home/CardHome'
+import './styles/SimilarProducts.css'
 
 const SimilarProducts = ({productInfo}) => {
 
